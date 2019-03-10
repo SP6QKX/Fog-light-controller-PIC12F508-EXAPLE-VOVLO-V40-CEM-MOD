@@ -17,7 +17,10 @@ PIN5 GP2 - OUTPUT SWICH CONTROL TO MOSFET / RELAY - Fog light ( NON-INVERT ) ,
 PIN6 GP1 - OUTPUT SWICH CONTROL TO MOSFET / RELAY - Fog light ( IF SOMETIMES NEED INVERT SIGNAL ) ,
 
 ----------------------------------------------------------------------------------------------------------------
-That all folks :) vy73 Daniel SP6QKX . https://www.qrz.com/db/sp6qkx
+If you would like donate to support my projects and development
+https://www.paypal.com/pools/c/8cTo5eOF8T
 
+That all folks :) vy73 Daniel SP6QKX . https://www.qrz.com/db/sp6qkx
+Thanks and Greetings
 <img src="https://raw.githubusercontent.com/SP6QKX/Fog-light-controller-PIC12F508-EXAPLE-VOVLO-V40-CEM-MOD/master/1.jpg">
 <img src="https://raw.githubusercontent.com/SP6QKX/Fog-light-controller-PIC12F508-EXAPLE-VOVLO-V40-CEM-MOD/master/2.jpg">
