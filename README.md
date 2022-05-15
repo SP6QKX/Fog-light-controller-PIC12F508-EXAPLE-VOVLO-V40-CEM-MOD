@@ -18,7 +18,6 @@ PIN6 GP1 - OUTPUT SWICH CONTROL TO MOSFET / RELAY - Fog light ( IF SOMETIMES NEE
 
 ----------------------------------------------------------------------------------------------------------------
 If you would like donate to support my projects and development
-https://www.paypal.com/pools/c/8cTo5eOF8T
 
 That all folks :) vy73 Daniel SP6QKX . https://www.qrz.com/db/sp6qkx
 Thanks and Greetings
